@@ -1,0 +1,31 @@
+Calculated average length for rare codon clusters differing by p-Value cut offs.
+
+sig_len_min_sum_p1e-05.txt
+sig avg sum: -107.2
+nsig_len_min_sum_p1e-05.txt
+nsig avg sum: -94.62
+sig_len_min_sum_p.0001.txt
+sig avg sum: -102.74
+nsig_len_min_sum_p.0001.txt
+nsig avg sum: -94.86
+sig_len_min_sum_p.001.txt
+sig avg sum: -96.92
+nsig_len_min_sum_p.001.txt
+nsig avg sum: -95.92
+sig_len_min_sum_p.01.txt
+sig avg sum: -95.59
+nsig_len_min_sum_p.01.txt
+nsig avg sum: -96.15
+sig_len_min_sum_p.05.txt
+sig avg sum: -97.44
+nsig_len_min_sum_p.05.txt
+nsig avg sum: -95.52
+sigOrfs_len_min_sum_p1e-05_zoom.ps
+sigOrfs_len_min_sum_p1e-05.pdf
+sigOrfs_len_min_sum_p.0001.pdf
+sigOrfs_len_min_sum_p1e-05_zoom.pdf
+sigOrfs_len_min_sum_p.001.pdf
+avg_rcclust_length.txt
+sigOrfs_len_min_sum_p.01.pdf
+avg_rcclust_min_sum.txt
+sigOrfs_len_min_sum_p.05.pdf

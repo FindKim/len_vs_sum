@@ -1,7 +1,7 @@
-all: leRCC
+all: RCClust
 
-leRCC: main.o ExtractSigOrf.o ExtractMMSeq.o RunLength.o RunSum.o
-	g++ main.o ExtractSigOrf.o ExtractMMSeq.o RunLength.o RunSum.o -o leRCC
+RCClust: main.o ExtractSigOrf.o ExtractMMSeq.o RCClust.o
+	g++ main.o ExtractSigOrf.o ExtractMMSeq.o RCClust.o -o RCClust
 
 main.o: main.cpp
 	g++ -c main.cpp
@@ -16,4 +16,4 @@ RCClust.o: RCClust.cpp RCClust.h
 	g++ -c RCClust.cpp
 
 clean:
-	rm -f *.o *.pyc *~ leRCC
+	rm -f *.o *.pyc *~ RCClust
